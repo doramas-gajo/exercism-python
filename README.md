@@ -15,7 +15,7 @@ Personal solutions to [**Python** track][python_track] exercises from [**Exercis
 
 ## Solutions
 
-1. ["**Hello World**" solution](python\hello-world\hello_world.py).
+1. ["**Hello World**" solution](python/hello-world/hello_world.py).
 <!-- Put next solution item here! -->
 
 [python_version_badge]: https://img.shields.io/badge/Python%203.13-3776AB?logo=python&logoColor=FFD43B

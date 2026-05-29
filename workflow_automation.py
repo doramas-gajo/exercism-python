@@ -95,7 +95,7 @@ def update_repository_readme(
     exercises_completed_badge = \
         f"[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-{completed_exercises}%2F{total_exercises}-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef\n"
     solution_line = \
-        f"{completed_exercises}. [\"**{exercise_title}**\" solution]({solution_filepath}).\n"
+        f"{completed_exercises}. [\"**{exercise_title}**\" solution]({solution_filepath.as_posix()}).\n"
     with open("README.md", 'r+', encoding='utf-8') as file:
         lines = file.readlines()
         new_lines = []
