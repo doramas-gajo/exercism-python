@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+.pytest_cache/
+
+# Exercises metadata
+python/*/.exercism
+
+# Exercism CLI help files
+python/*/HELP.md
+
+# Local environment
+.env
