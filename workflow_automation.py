@@ -181,7 +181,7 @@ def main():
     message = f"Solve \"{exercise_title}\" exercise"
     subprocess.run(["git", "commit", "-m", message], check=True)
     subprocess.run(["git", "push", "-u", "origin", branch_name], check=True)
-    webbrowser.open(f"https://github.com/{USER_NAME}/exercism-{EXERCISM_TRACK}/pull/new/{branch_name}")
+    webbrowser.open(f"https://github.com/{GITHUB_USERNAME}/exercism-{EXERCISM_TRACK}/pull/new/{branch_name}")
     subprocess.run(["git", "switch", "main"], check=True)
     subprocess.run(["git", "branch", "-D", branch_name], check=True)
 
