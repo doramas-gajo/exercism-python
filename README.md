@@ -1,0 +1,21 @@
+# Exercism Python Track
+
+[![Python version][python_version_badge]](#)
+[![Track completion][track_completion_badge]](#)
+[![Exercises completed][exercises_completed_badge]](#)
+
+Personal solutions to [**Python** track][python_track] exercises from [**Exercism**][exercism].
+
+> [!NOTE]
+> While some exercises could be solved using advanced one-liners or better code, the aim here is to stay faithful to the learning objectives.
+> In many cases, the code is intentionally written in a more explicit, step-by-step manner to prioritize clarity over cleverness.
+
+## Solutions
+
+<!-- Put next solution item here! -->
+
+[python_version_badge]: https://img.shields.io/badge/Python%203.13-3776AB?logo=python&logoColor=FFD43B
+[track_completion_badge]: https://img.shields.io/badge/Track%20completion-0.0%25-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-0%2F146-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[python_track]: https://exercism.org/tracks/python
+[exercism]: https://exercism.org
