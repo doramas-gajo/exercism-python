@@ -10,6 +10,9 @@ Personal solutions to [**Python** track][python_track] exercises from [**Exercis
 > While some exercises could be solved using advanced one-liners or better code, the aim here is to stay faithful to the learning objectives.
 > In many cases, the code is intentionally written in a more explicit, step-by-step manner to prioritize clarity over cleverness.
 
+> [!NOTE]
+> **Python** tests are automatically executed using `pytest` to ensure correctness and consistency across implementations.
+
 ## Solutions
 
 <!-- Put next solution item here! -->
