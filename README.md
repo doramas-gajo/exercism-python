@@ -19,10 +19,11 @@ Personal solutions to [**Python** track][python_track] exercises from [**Exercis
 2. ["**Guido's Gorgeous Lasagna**" solution](python/guidos-gorgeous-lasagna/lasagna.py).
 3. ["**Ghost Gobble Arcade Game**" solution](python/ghost-gobble-arcade-game/arcade_game.py).
 4. ["**Currency Exchange**" solution](python/currency-exchange/exchange.py).
+5. ["**Meltdown Mitigation**" solution](python/meltdown-mitigation/conditionals.py).
 <!-- Put next solution item here! -->
 
 [python_version_badge]: https://img.shields.io/badge/Python%203.13-3776AB?logo=python&logoColor=FFD43B
-[track_completion_badge]: https://img.shields.io/badge/Track%20completion-2.7%25-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
-[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-4%2F146-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[track_completion_badge]: https://img.shields.io/badge/Track%20completion-3.4%25-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-5%2F146-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
 [python_track]: https://exercism.org/tracks/python
 [exercism]: https://exercism.org
