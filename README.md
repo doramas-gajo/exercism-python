@@ -21,6 +21,7 @@ Personal solutions to [**Python** track][python_track] exercises from [**Exercis
 4. ["**Currency Exchange**" solution](python/currency-exchange/exchange.py).
 5. ["**Meltdown Mitigation**" solution](python/meltdown-mitigation/conditionals.py).
 6. ["**Black Jack**" solution](python/black-jack/black_jack.py).
+7. ["**Little Sister's Essay**" solution](python/little-sisters-essay/string_methods.py).
 8. ["**Little Sister's Vocabulary**" solution](python/little-sisters-vocab/strings.py).
 <!-- Put next solution item here! -->
 
