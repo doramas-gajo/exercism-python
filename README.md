@@ -24,10 +24,11 @@ Personal solutions to [**Python** track][python_track] exercises from [**Exercis
 7. ["**Little Sister's Essay**" solution](python/little-sisters-essay/string_methods.py).
 8. ["**Little Sister's Vocabulary**" solution](python/little-sisters-vocab/strings.py).
 9. ["**Card Games**" solution](python/card-games/lists.py).
+10. ["**Chaitana's Colossal Coaster**" solution](python/chaitanas-colossal-coaster/list_methods.py).
 <!-- Put next solution item here! -->
 
 [python_version_badge]: https://img.shields.io/badge/Python%203.13-3776AB?logo=python&logoColor=FFD43B
-[track_completion_badge]: https://img.shields.io/badge/Track%20completion-6.2%25-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
-[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-9%2F146-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[track_completion_badge]: https://img.shields.io/badge/Track%20completion-6.8%25-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
+[exercises_completed_badge]: https://img.shields.io/badge/Exercises%20completed-10%2F146-604fcd?logo=exercism&logoColor=604fcd&labelColor=e9ecef
 [python_track]: https://exercism.org/tracks/python
 [exercism]: https://exercism.org
